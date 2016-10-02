@@ -1,5 +1,14 @@
 # Klasse1
 
+## Git
+
+Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
+
+[http://https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
+
+[https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+
+
 ## Das Thema des Kurses
 
 - fortgeschrittene und praktische DSP-Techniken
@@ -27,6 +36,7 @@
 [gen~] Objekt ermöglicht die Entwicklung eines Max/MSP Objekts ohne C++ oder C.
 
 
+
 ## Die Beschränkung der Max-Programmierung
 
 
@@ -50,4 +60,37 @@
 	- Feedback-FM = Modulator benötigt 1-Sample Feedback
 
 	
+### Kann man unregelmäßige Pulse erzeugen?
+
+mit Kontrollobjekten (Präzision = 1 msek.)
+
+![](Klasse1/motivation4.png)
+
+aber Signalobjekten?
+
+
+## Die Lösung
+
+Das gen~ Objekt
+
+![](Klasse1/gen~.png)
+
+### Die Lösung für das Feedback-Problem
+![](Klasse1/feedback.png)
+![](Klasse1/feedback_gen.png)
+
+### Die Lösung für das Puls-Problem
+![](Klasse1/irregular.png)
+![](Klasse1/irregular_gen.png)
+
+## ein einfaches Beispiel mit gen~
+
+### Das Problem
+
+Das Signal von rand~ ist linear.
+Wie kann man rand~ mit exponentiellen Kurven verwirklichen?
+
+### Die Lösung
+![](Klasse1/exprand.png)
+![](Klasse1/exprand_gen.png)
 
