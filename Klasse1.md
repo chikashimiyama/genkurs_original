@@ -41,13 +41,13 @@ Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
 
 
 ### präzise Feedback ist unmöglich
-![](Klasse1/motivation1.png)
+![](Klasse1/png/motivation1.png)
 
 ### Feedback ist abhängig von SIGNAL VECTOR SIZE
-![](Klasse1/motivation2.png)
+![](Klasse1/png/motivation2.png)
 
 ### Das Geheimnis hinter send~ und receive~ 
-![](Klasse1/motivation3.png)
+![](Klasse1/png/motivation3.png)
 
 
 #### warum ist feedback so wichtig?
@@ -64,7 +64,7 @@ Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
 
 mit Kontrollobjekten (Präzision = 1 msek.)
 
-![](Klasse1/motivation4.png)
+![](Klasse1/png/motivation4.png)
 
 aber Signalobjekten?
 
@@ -73,15 +73,15 @@ aber Signalobjekten?
 
 Das gen~ Objekt
 
-![](Klasse1/gen~.png)
+![](Klasse1/png/gen~.png)
 
 ### Die Lösung für das Feedback-Problem
-![](Klasse1/feedback.png)
-![](Klasse1/feedback_gen.png)
+![](Klasse1/png/feedback.png)
+![](Klasse1/png/feedback_gen.png)
 
 ### Die Lösung für das Puls-Problem
-![](Klasse1/irregular.png)
-![](Klasse1/irregular_gen.png)
+![](Klasse1/png/irregular.png)
+![](Klasse1/png/irregular_gen.png)
 
 ## ein einfaches Beispiel mit gen~
 
@@ -91,6 +91,6 @@ Das Signal von rand~ ist linear.
 Wie kann man rand~ mit exponentiellen Kurven verwirklichen?
 
 ### Die Lösung
-![](Klasse1/exprand.png)
-![](Klasse1/exprand_gen.png)
+![](Klasse1/png/exprand.png)
+![](Klasse1/png/exprand_gen.png)
 
