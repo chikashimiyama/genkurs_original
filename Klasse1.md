@@ -14,7 +14,7 @@ Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
 - fortgeschrittene und praktische DSP-Techniken
 - [gen~] objekt
 
-### warum braucht man gen~?
+### Warum braucht man gen~?
 
 
 >General
@@ -50,7 +50,7 @@ Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
 ![](Klasse1/png/motivation3.png)
 
 
-#### warum ist feedback so wichtig?
+#### Warum ist feedback so wichtig?
 
 - Feedback ist z.B. sehr wichtig für
 	- Karplus-Strong Synthese = Kurzer Puls + Feedback Delay
@@ -83,11 +83,11 @@ Das gen~ Objekt
 ![](Klasse1/png/irregular.png)
 ![](Klasse1/png/irregular_gen.png)
 
-## ein einfaches Beispiel mit gen~
+## Ein einfaches Beispiel mit gen~
 
 ### Das Problem
 
-Das Signal von rand~ ist linear.
+rand~ erzeugt ein lineares Signal.
 Wie kann man rand~ mit exponentiellen Kurven verwirklichen?
 
 ### Die Lösung
