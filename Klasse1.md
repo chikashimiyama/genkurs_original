@@ -94,3 +94,7 @@ Wie kann man rand~ mit exponentiellen Kurven verwirklichen?
 ![](Klasse1/png/exprand.png)
 ![](Klasse1/png/exprand_gen.png)
 
+### C / C++ und gen~
+
+![](Klasse1/png/c++.png)
+
