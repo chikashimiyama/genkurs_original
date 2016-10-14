@@ -1,36 +1,92 @@
-# Klasse2
+# Klasse 2
+
+## powerrand~
+
+![](Klasse2/png/exprand.png)
+
+## Patch
+
+![](Klasse2/png/exprand_gen.png)
+
+### Schritt 1
+
+**phasor:** erzeugt Sägezahn
+
+![](Klasse2/png/step1.png)
+
+### Schritt 2
+
+**delta:** Differenz zwischen dem jetzigen Wert und dem letzten Wert
+
+![](Klasse2/png/step2.png)
+
+### Schritt 3
+**<~ 0:** erzeugt 1, wenn das eingegebene Singal kleiner als 0 ist.
 
 
-## Granularsynthese
-![](Klasse2/1.png)
----
-![](Klasse2/2.png)
----
-![](Klasse2/3.png)
----
-![](Klasse2/2.png)
----
-![](Klasse2/5.png)
----
-![](Klasse2/6.png)
----
-![](Klasse2/7.png)
----
-![](Klasse2/8.png)
----
-![](Klasse2/9.png)
----
-![](Klasse2/10.png)
----
-![](Klasse2/11.png)
+![](Klasse2/png/step3.png)
+
+### Schritt 4
+**noise:** erzeugt randomisierten Werte zwiscehn -1 und 1
+![](Klasse2/png/step4.png)
+
+### Schritt 5
+
+**sah:** sample and hold. Das Argument = die Schwelle.
+
+![](Klasse2/png/step5.png)
 
 
----
+### Schritt 6
+
+![](Klasse2/png/step6.png)
+
+### Schritt 7
+**history:** 1 Sample Verzögerung.
+
+![](Klasse2/png/step7.png)
+
+### Schritt 8
+
+![](Klasse2/png/step8.png)
 
 
-# HA
-Programmieren Sie ein patch, das mit Granular-Technik eine eingegebene Klangdatei ohne Tonhöheänderung 5 mal länger als das Original spielt. Der gestreckte Klang muss Klick-frei sein.
+### Schritt 9
 
-[Klangdatei](Klasse1/sample.zip)
+![](Klasse2/png/step9.png)
 
-m
+
+### Schritt 10
+
+![](Klasse2/png/step10.png)
+
+### Schritt 11
+
+![](Klasse2/png/step11.png)
+
+### Schritt 12
+
+gen als Datei
+![](Klasse2/png/step12.png)
+
+## Einfacher Filter
+
+- Tiefpassfilter
+- Hochpassfilter
+- Bandpassfilter
+- Kuhschwanzfilter 
+...
+
+![](Klasse2/png/onepole.png)
+![](Klasse2/png/feedback.png)
+
+### Tiefpassfilter
+![](Klasse2/png/lowpass.png)
+
+#### Test
+![](Klasse2/png/high.png)
+![](Klasse2/png/mid.png)
+![](Klasse2/png/low.png)
+
+### Theorie
+![](Klasse2/png/theorie.png)

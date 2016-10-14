@@ -1,47 +1,36 @@
-# Klasse3
+# Klasse2
 
 
-## Anwendung von Granularsynthese
-
-### Position
-![](Klasse3/gra1.png)
-
+## Granularsynthese
+![](Klasse3/1.png)
 ---
-### Pitchshift
-![](Klasse3/gra2.png)
-
+![](Klasse3/2.png)
 ---
-### Tonleiter
-![](Klasse3/gra3.png)
-
+![](Klasse3/3.png)
 ---
-### Automation
-![](Klasse3/gra4.png)
-
+![](Klasse3/2.png)
 ---
-### Randomisierung
-![](Klasse3/gra5.png)
-
+![](Klasse3/5.png)
 ---
-### Granularität
-
-![](Klasse3/gra6.png)
-
-## AGS (Asynchronus Granular Synthesis)
+![](Klasse3/6.png)
 ---
+![](Klasse3/7.png)
+---
+![](Klasse3/8.png)
+---
+![](Klasse3/9.png)
+---
+![](Klasse3/10.png)
+---
+![](Klasse3/11.png)
 
 
 ---
 
 
----
+# HA
+Programmieren Sie ein patch, das mit Granular-Technik eine eingegebene Klangdatei ohne Tonhöheänderung 5 mal länger als das Original spielt. Der gestreckte Klang muss Klick-frei sein.
 
+[Klangdatei](Klasse1/sample.zip)
 
-
----
-
-
-
----
-
-Mit Granular-technik komponieren Sie ein Stück (10 - 20 Sekunden).
+m
