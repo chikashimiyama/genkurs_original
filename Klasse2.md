@@ -69,7 +69,9 @@
 gen als Datei
 ![](Klasse2/png/step12.png)
 
-## Einfacher Filter
+## Anwendung von history
+
+### Filter
 
 - Tiefpassfilter
 - Hochpassfilter
@@ -80,7 +82,7 @@ gen als Datei
 ![](Klasse2/png/onepole.png)
 ![](Klasse2/png/feedback.png)
 
-### Tiefpassfilter
+#### Tiefpassfilter
 ![](Klasse2/png/lowpass.png)
 
 #### Test
@@ -88,5 +90,14 @@ gen als Datei
 ![](Klasse2/png/mid.png)
 ![](Klasse2/png/low.png)
 
-### Theorie
+#### Theorie
 ![](Klasse2/png/theorie.png)
+
+### Feedback FM
+
+![](Klasse2/png/sine.png)
+
+![](Klasse2/png/FeedbackFM.png)
+![](Klasse2/png/Feedbackpatch.png)
+![](Klasse2/png/plot.png)
+
