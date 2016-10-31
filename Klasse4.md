@@ -1,47 +1,48 @@
-# Klasse3
+# Klasse4
 
 
 ## Anwendung von Granularsynthese
 
 ### Position
-![](Klasse3/gra1.png)
+![](Klasse4/png/gra1.png)
 
 ---
 ### Pitchshift
-![](Klasse3/gra2.png)
+![](Klasse4/png/gra2.png)
 
 ---
 ### Tonleiter
-![](Klasse3/gra3.png)
+![](Klasse4/png/gra3.png)
 
 ---
 ### Automation
-![](Klasse3/gra4.png)
+![](Klasse4/png/gra4.png)
 
 ---
 ### Randomisierung
-![](Klasse3/gra5.png)
+![](Klasse4/png/gra5.png)
 
 ---
 ### Granularität
 
-![](Klasse3/gra6.png)
+![](Klasse4/png/gra6.png)
 
-## AGS (Asynchronus Granular Synthesis)
+## Pitch Shifter
+
+
+### Delay
+![](Klasse4/png/pitchshifter1.png)
 ---
-
-
+### Dynamische Delay-Time
+![](Klasse4/png/pitchshifter2.png)
 ---
-
-
+### DT-Kontrol mit phasor~
+![](Klasse4/png/pitchshifter3.png)
 ---
-
-
-
+### Fensterfunktion
+![](Klasse4/png/pitchshifter4.png)
 ---
-
-
-
+### (OLA)Overlap and Add
+![](Klasse4/png/pitchshifter5.png)
 ---
-
-Mit Granular-technik komponieren Sie ein Stück (10 - 20 Sekunden).
+### mit Live-Input
