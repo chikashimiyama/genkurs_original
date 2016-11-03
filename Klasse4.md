@@ -46,3 +46,4 @@
 ![](Klasse4/png/pitchshifter5.png)
 ---
 ### mit Live-Input
+![](Klasse4/png/pitchshifter6.png)
