@@ -37,3 +37,17 @@
 
 
 
+## AGS (Asynchronous Granular Synthesis)
+
+Unregelmäßiger Phasor
+
+![](Klasse5/png/ags_phasor.png)
+
+---
+![](Klasse5/png/phasor.png)
+
+---
+![](Klasse5/png/phasor2.png)
+
+---
+![](Klasse5/png/phasor3.png)
