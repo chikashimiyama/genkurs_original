@@ -47,3 +47,13 @@
 ---
 ### mit Live-Input
 ![](Klasse4/png/pitchshifter6.png)
+
+---
+### Tonleiter
+![](Klasse4/png/pitchsfhiter7.png)
+
+---
+###  Harmonizer
+![](Klasse4/png/pitchshifter8/png)
+
+
