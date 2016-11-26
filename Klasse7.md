@@ -4,60 +4,60 @@
 
 ### "random" objekt
 
-![](klasse7/png/random1.png)
+![](Klasse7/png/random1.png)
 ---
 ### von c'' bis c'''
 
-![](klasse7/png/random2.png)
+![](Klasse7/png/random2.png)
 ---
 ### C moll
 
-![](klasse7/png/random3.png)
+![](Klasse7/png/random3.png)
 ---
 ### "drunk" objekt
-![](klasse7/png/drunk1.png)
+![](Klasse7/png/drunk1.png)
 
 ---
 ### 50 - 50
-![](klasse7/png/drunk2.png)
+![](Klasse7/png/drunk2.png)
 
 ---
 ### Wahrscheinlichkeit
-![](klasse7/png/drunk3.png)
+![](Klasse7/png/drunk3.png)
 
 ---
 ### Wahrscheinlichkeit und "table"
-![](klasse7/png/drunk4.png)
+![](Klasse7/png/drunk4.png)
 
 ---
 ### "urn" / ohne wiederholung
-![](klasse7/png/urn1.png)
+![](Klasse7/png/urn1.png)
 
 
 ---
 ### noise~ (Randomisierung ohne Interpolation)
 
-![](klasse7/png/noise1.png)
+![](Klasse7/png/noise1.png)
 
 ---
 ### pink~
 
-![](klasse7/png/noise2.png)
+![](Klasse7/png/noise2.png)
 
 ---
 ### noise~ + filter
 
-![](klasse7/png/noise3.png)
+![](Klasse7/png/noise3.png)
 
 ---
 ### Unregelmäßige Periode
-![](klasse7/png/irregular_noise.png)
+![](Klasse7/png/irregular_noise.png)
 
 
 ---
 ### rand~
 
-![](klasse7/png/rand.png)
+![](Klasse7/png/rand.png)
 
 
 ## Aufgabe
