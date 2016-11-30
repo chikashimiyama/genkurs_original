@@ -57,12 +57,31 @@ Die Chaosforschung oder Chaostheorie bezeichnet ein nicht klar umgrenztes Teilge
 ### Gen Implementation
 ![](Klasse8/png/logistic_gen.png)
 
+### Gen Implementation + Downsampling
+![](Klasse8/png/logistic_gen2.png)
+
+### Gen Implementation + Downsampling + Interpolation
+![](Klasse8/png/logistic_gen3.png)
+
+
+
 
 [List of Map](https://en.wikipedia.org/wiki/List_of_chaotic_maps)
 
 [Chikashi's Pd-externals für Chaos](https://github.com/chikashimiyama/pd_externals)
 
+### Aufgabe
+Programmieren Sie einen Strange-Attaktor, der tent-map verwirklicht. 
 
+- Die Frequenz der Ausgaben muss einstellbar sein.
+- mit Cosine-Interpolation
+- bietet einen Parameter für unregelmäßige Ausgabe an
+
+### TentMap
+[Zeltabbildung](https://de.wikipedia.org/wiki/Zeltabbildung)
+
+![](Klasse8/png/tent.png)
+![](Klasse8/png/tent.svg)
 
 
 
