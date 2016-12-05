@@ -68,7 +68,7 @@ Die Chaosforschung oder Chaostheorie bezeichnet ein nicht klar umgrenztes Teilge
 
 [List of Map](https://en.wikipedia.org/wiki/List_of_chaotic_maps)
 
-[Chikashi's Pd-externals für Chaos](https://github.com/chikashimiyama/pd_externals)
+[Chikashis Pd-externals für Chaos](https://github.com/chikashimiyama/pd_externals)
 
 ### Aufgabe
 Programmieren Sie einen Strange-Attaktor, der tent-map verwirklicht. 
