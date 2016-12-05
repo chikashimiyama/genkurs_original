@@ -81,7 +81,7 @@ Programmieren Sie einen Strange-Attaktor, der tent-map verwirklicht.
 [Zeltabbildung](https://de.wikipedia.org/wiki/Zeltabbildung)
 
 ![](Klasse8/png/tent.png)
-![](Klasse8/png/tent.svg)
+![](Klasse8/png/tent_e.png)
 
 
 
