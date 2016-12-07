@@ -48,9 +48,24 @@ When unit reverberators are connected in **parallel**, their echoes add together
 ![](Klasse9/png/design.png)
 
 
-### Schröder-Stil Reverb
+### Schröder Reverb
 
+4 comb parallel
+![](Klasse9/png/4_comb_para.png)
 
+---
+4 allpass parallel
+![](Klasse9/png/4_allpass_para.png)
+
+-- 
+4 allpass serial
+
+![](Klasse9/png/4_allpass_serial.png)
+
+--
+4 comb parallel + 2 allpass
+
+![](Klasse9/png/4_comb_2all.png)
 
 
 ### Early Refelektion
@@ -58,7 +73,14 @@ When unit reverberators are connected in **parallel**, their echoes add together
 
 
 ### Verbesserter Schröder-Reverb
+![](Klasse9/png/er+predelay+comb+all.png)
 
+
+
+
+### High Frequency Rolloff = Lowpass
+
+![](Klasse9/png/er+predelay+comb+all+rolloff.png)
 
 ### Stereo Verbreitung
 
@@ -81,5 +103,3 @@ von  Sack Settel
 
 ![](Klasse9/png/yafr2.png)
 
-
-### Convolution Reverb in Max
