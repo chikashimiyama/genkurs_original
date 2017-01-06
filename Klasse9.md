@@ -1,6 +1,23 @@
 # Klasse9
 
-## Reverbration mit gen~
+## Tent map
+
+### Modell
+![](Klasse9/png/tent.png)
+
+### gen~
+![](Klasse9/png/tentmap_gen.png)
+
+### downsample + Unregelmäßigkeit
+
+![](Klasse9/png/downsample.png)
+
+### Cubic-Interpolation
+
+![](Klasse9/png/cubic.png)
+
+
+## Reverb
 
 ![](Klasse9/png/reverb.gif)
 
