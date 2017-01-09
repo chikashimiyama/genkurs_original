@@ -67,7 +67,11 @@ Waveset distortion was developed for the CDP while composing [Tongues of Fire](h
 
 The first of these involves replacing each waveset with a standard-shape waveform (e.g. a **sinewave**). This produces a very pronounced spectral transformation of the source, but one where the zero-crossings of the result are exactly aligned with those of the source. It is thus possible to use a simple mixing procedure (another CDP process, Inbetweening, does this) to produce a sequence of sounds intermediate between the source and the new sound. These two procedures were developed and used to produce the 'Wood' to 'Drum' transformations in [Tongues of Fire](https://www.youtube.com/watch?v=x-Or7VaMlEI).
 
-![](Klasse10/png/waveset_gen4.png)
+![](Klasse10/png/waveset_gen35.png)
 
+
+#### Ersatz durch Sinus + Envelope Follower
+
+![](Klasse10/png/waveset_gen5.png)
 
 
