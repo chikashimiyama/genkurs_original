@@ -1,7 +1,7 @@
-# Software 1 
+# Software 2 
 
-WS 2016 
-Mo. 12:30-14:00 @ SFEM
+WS 2021 
+Mo. 12:30-14:00
 
 Dr. Chikashi Miyama 
 
